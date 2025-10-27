@@ -1,4 +1,4 @@
-# xv6 Operating Systems Projects (University of Tehran)
+# xv6 Operating Systems Projects
 
 This repository contains all 5 projects for the Operating Systems Laboratory course. The curriculum involved a hands-on, deep dive into the **xv6 operating system**, a modern re-implementation of Dennis Ritchie's and Ken Thompson's Unix Version 6 (v6) for the x86 platform.
 
